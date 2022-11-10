@@ -3,14 +3,14 @@
 [Basic](#Basic)
 
 1. [Quote](#1.-명언-생성기)
-2. [ScreenTransaction](#2.-ScreenTransactionExample)
-3. [LEDBoard](#3.-LED-Board)
+2. [ScreenTransaction](#2.-screentransactionexample)
+3. [LEDBoard](#3.-led-board)
 4. [Calculator](#4.-계산기)
-5. [TodoList](#5.-TodoList)
+5. [TodoList](#5.-todolist)
 6. [Diary](#6.-일기장)
-7. [Pomodoro](#7.-Pomodoro)
+7. [Pomodoro](#7.-pomodoro)
 8. [Weather](#8.-날씨-가져오기)
-9. [COVID19](#9.-COVID19)
+9. [COVID19](#9.-covid19)
 
 [Intermediate](#Intermediate)
 
