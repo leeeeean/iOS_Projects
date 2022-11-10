@@ -2,15 +2,15 @@
 
 [Basic](#Basic)
 
-1. [Quote](#1.명언-생성기)
-2. [ScreenTransaction](#2.screentransactionexample)
-3. [LEDBoard](#3.led-board)
-4. [Calculator](#4.계산기)
-5. [TodoList](#5.todolist)
-6. [Diary](#6.일기장)
-7. [Pomodoro](#7.pomodoro)
-8. [Weather](#8.날씨-가져오기)
-9. [COVID19](#9.covid19)
+1. [Quote](#명언-생성기)
+2. [ScreenTransaction](#screentransactionexample)
+3. [LEDBoard](#led-board)
+4. [Calculator](#계산기)
+5. [TodoList](#todolist)
+6. [Diary](#일기장)
+7. [Pomodoro](#pomodoro)
+8. [Weather](#날씨-가져오기)
+9. [COVID19](#covid19)
 
 [Intermediate](#Intermediate)
 
