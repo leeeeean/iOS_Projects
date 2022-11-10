@@ -22,7 +22,7 @@
 
 
 
-### 1.명언 생성기
+### 명언 생성기
 
 ![Quote](https://user-images.githubusercontent.com/44731564/201130480-6c442176-0163-4425-bb56-9a75f926a00d.gif)
 
@@ -32,7 +32,7 @@
 
 
 
-### 2.ScreenTransactionExample
+### ScreenTransactionExample
 
 - Segueway로 Push, Present
 - 코드로 Push, Present 구현
@@ -41,7 +41,7 @@
 
 
 
-### 3.LED board
+### LED board
 
 - delegate를 활용한 데이터 전달 구현
 
@@ -53,7 +53,7 @@
 
 
 
-### 4.계산기
+### 계산기
 
 - StackView 활용
 - @IBInspectable, @IBDesignable 활용
@@ -66,7 +66,7 @@
 
 
 
-### 5.TodoList
+### TodoList
 
 * UITableView 활용
 * UIAlertController 사용
@@ -78,7 +78,7 @@
 
 
 
-### 6.일기장
+### 일기장
 
 * Tab Bar Controller 활용
 * UICollectionView 활용
@@ -95,7 +95,7 @@
 
 
 
-### 7.Pomodoro
+### Pomodoro
 
 * ProgressView 활용
 * CGAffineTransform 을 활용하여 뷰가 회전하는 애니메이션 구현
@@ -105,13 +105,13 @@
 
 
 
-### 8.날씨 가져오기
+### 날씨 가져오기
 
 * URLSession을 통해 API 데이터 불러오기 구현
 
 
 
-### 9.COVID19
+### COVID19
 
 * pod 사용 - Alamofire, Charts
 * Charts 의 PieCharView 활용
