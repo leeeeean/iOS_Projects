@@ -1,18 +1,18 @@
 ### 목차
 
-[Basic](Basic)
+[Basic](#Basic)
 
-1. [Quote](#명언-생성기)
-2. [ScreenTransaction](#ScreenTransactionExample)
-3. [LEDBoard](#LED-Board)
-4. [Calculator](#계산기)
-5. [TodoList](#TodoList)
-6. [Diary](#일기장)
-7. [Pomodoro](#Pomodoro)
-8. [Weather](#날씨-가져오기)
-9. [COVID19](#COVID19)
+1. [Quote](#1.-명언-생성기)
+2. [ScreenTransaction](#2.-ScreenTransactionExample)
+3. [LEDBoard](#3.-LED-Board)
+4. [Calculator](#4.-계산기)
+5. [TodoList](#5.-TodoList)
+6. [Diary](#6.-일기장)
+7. [Pomodoro](#7.-Pomodoro)
+8. [Weather](#8.-날씨-가져오기)
+9. [COVID19](#9.-COVID19)
 
-[Intermediate](Intermediate)
+[Intermediate](#Intermediate)
 
 
 
