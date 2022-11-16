@@ -22,6 +22,11 @@
 6. [NetflixStyleSampleApp](#netflixsampleapp)
 7. [Brewery](#brewery)
 
+[Upper Intermediate](#Upper-Intermediate)
+
+1. [NetflixStyleSampleAppUpdate](#netflixstylesampleappupdate)
+2. [MyAsset](#myasset)
+
 
 
 # Basic
@@ -143,3 +148,28 @@
 * 페이지네이션 데이터 받아오기 구현
 * prefetchRow
 
+
+
+---
+
+
+
+# Upper Intermediate
+
+> 영상은 UpperIntermediate(UpperIntermediate) 에서
+
+
+
+### NetflixStyleSampleAppUpdate
+
+* Storyboard로 구현한 뷰 사이에 SwiftUI로 구현한 뷰를 연결하기
+
+
+
+### MyAsset
+
+* SwiftUI 를 사용하여 뷰 구현
+  Navigation
+  Grid View
+  Banner View
+  Page Control
