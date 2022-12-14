@@ -26,6 +26,8 @@
 
 1. [NetflixStyleSampleAppUpdate](#netflixstylesampleappupdate)
 2. [MyAsset](#myasset)
+3. [AppStore](#appstore)
+4. [지하철 도착 정보](#지하철-도착-정보)
 
 
 
@@ -173,3 +175,20 @@
   Grid View
   Banner View
   Page Control
+  
+  ### AppStore
+  
+  * 코드로만 이용해서 구현
+  * 공유하기 - share sheet 구현
+  * CollectionView를 통한 다양한 화면 구현
+  * Tab 화면 구현
+  
+  
+  ### 지하철 도착 정보
+  
+  * 코드로만 이용해서 구현
+  * TableView, CollcetionView 이용
+  * 클로져를 통한 비동기 처리
+  * 지하철 실시간 API 사용
+  * refreshController 사용
+  
